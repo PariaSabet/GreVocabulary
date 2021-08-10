@@ -1,0 +1,284 @@
+{
+	"cards": [
+		{
+			"id": 1,
+			"word": "divulge",
+			"definition": "v.  to make known something private or secret",
+			"translation": "فاش کردن",
+			"synonym": "disclose, declare, reveal"
+		},
+		{
+			"id": 2,
+			"word": "inadvertent",
+			"definition": "adj.  marked by or resulting from carelessness negligent",
+			"translation": "سهوا، غیر عمدی",
+			"synonym": "feckless, careless, unplanned"
+		},
+		{
+			"id": 3,
+			"word": "panegyric",
+			"definition": "n.  a formal eulogistic composition",
+			"translation": "مدیحه ، ستایش",
+			"synonym": "encomium, citation, eulogy, salutation, tribute"
+		},
+		{
+			"id": 4,
+			"word": "draconian",
+			"definition": "adj.  exceedingly harsh or very severe",
+			"translation": "بسیار ظالمانه، بسیار ستمگر(انه)،قوانی حقو یق سخت و ب رحمانه",
+			"synonym": "stringent, rigorous, rigid"
+		},
+		{
+			"id": 5,
+			"word": "hodgepodge",
+			"definition": "n.  a mixture of different things",
+			"translation": "درهم و برهم",
+			"synonym": "patchwork, welter, pastiche, medley, potpourri"
+		},
+		{
+			"id": 6,
+			"word": "incontrovertible",
+			"definition": "adj.  impossible to dispute",
+			"translation": "بی چون و چرا، مسلم",
+			"synonym": "irrefutable, undeniable"
+		},
+		{
+			"id": 7,
+			"word": "impartial",
+			"definition": "adj.  not partial or biased",
+			"translation": "بی طرف",
+			"synonym": "disinterested, fair, detachment"
+		},
+		{
+			"id": 8,
+			"word": "endemic",
+			"definition": "adj.  prevalent in or limited to a particular locality region or people",
+			"translation": "بومی",
+			"synonym": "native, domestic, indigenous"
+		},
+		{
+			"id": 9,
+			"word": "minuscule",
+			"definition": "adj.  very small and tiny",
+			"translation": "کوچک",
+			"synonym": "diminutive"
+		},
+		{
+			"id": 10,
+			"word": "lucrative",
+			"definition": "adj.  producing wealth",
+			"translation": "سودمند، پرمنفعت، موفق",
+			"synonym": "moneymaking, remunerative, profitable"
+		},
+		{
+			"id": 11,
+			"word": "compensate",
+			"definition": "v.  to offset an error defect or undesired effect",
+			"translation": "جبران کردن",
+			"synonym": "redress, atone, amends, remunerate"
+		},
+		{
+			"id": 12,
+			"word": "discursive",
+			"definition": "adj.  moving from topic to topic without order rambling",
+			"translation": "نامربوط، بی ترتیب، پراکنده، فرنودی",
+			"synonym": "aimless, digressional, rambling"
+		},
+		{
+			"id": 13,
+			"word": "presuppose",
+			"definition": "v.  to require as an antecedent in logic or fact",
+			"translation": "در برداشتن، متضمن بودن، پیش پنداشتن، از پیش فرض کردن",
+			"synonym": "presume, assume, imply, posit, postulate, take as read, take for granted"
+		},
+		{
+			"id": 14,
+			"word": "intermediary",
+			"definition": "adj.  acting as a mediator",
+			"translation": "واسطه، میانجی",
+			"synonym": "go-between, intercessor, intermediator, mediator"
+		},
+		{
+			"id": 15,
+			"word": "derogate",
+			"definition": "derogate",
+			"translation": "باعث کوچک دیده و فرض شدن",
+			"synonym": "decry, belittle, depreciate, disparage"
+		},
+		{
+			"id": 16,
+			"word": "overbearing",
+			"definition": "adj.  often trying to control the behavior of other people in an annoying or unwanted way",
+			"translation": "مغرور ، از خود راضی ، منکوب گر",
+			"synonym": "arrogant, dictatorial, domineering, haughty, high-handed, imperious, supercilious, superior"
+		},
+		{
+			"id": 17,
+			"word": "zealous",
+			"definition": "adj.  marked by fervent partisanship for a person a cause or an ideal",
+			"translation": "فدایی، هواخواه افراطی",
+			"synonym": "impassioned, fervent, fiery, passionate, fanatic"
+		},
+		{
+			"id": 18,
+			"word": "extraneous",
+			"definition": "adj.  not important",
+			"translation": "فرعی، خارجی، غیر اصلی",
+			"synonym": "irrelevant, immaterial, inappropriate"
+		},
+		{
+			"id": 19,
+			"word": "rehash",
+			"definition": "v.  to bring forth again in another form without significant alteration",
+			"translation": "تکرار مکررات",
+			"synonym": "recycle"
+		},
+		{
+			"id": 20,
+			"word": "perfunctory",
+			"definition": "adj.  acting with indifference showing little interest or care",
+			"translation": "(انجام شده با بی توجهی و برای انجام وظیفه) سرسری، باری به هر جهت، با بی میلی",
+			"synonym": "cursory, casual, superficial"
+		},
+		{
+			"id": 21,
+			"word": "compound",
+			"definition": "v.  to form by combining separate things",
+			"translation": "ترکیب کردن / بدترکردن ",
+			"synonym": "combine"
+		},
+		{
+			"id": 22,
+			"word": "envy",
+			"definition": "v.  to feel a desire to have what someone else has",
+			"translation": "حسادت کردن, چشم طمع (به چ ری یا مال دیگری)",
+			"synonym": "covet"
+		},
+		{
+			"id": 23,
+			"word": "defensive",
+			"definition": "adj.   in a situation which you are forced to defend or protect someone or something",
+			"translation": "تدافعی، حالت تدافع",
+			"synonym": "justificative, justificatory, apologetic, excusatory"
+		},
+		{
+			"id": 24,
+			"word": "unbounded",
+			"definition": "adj.  not limited in any way",
+			"translation": "نا محدود، بیکران",
+			"synonym": "immoderate, expansive"
+		},
+		{
+			"id": 25,
+			"word": "specious",
+			"definition": "adj.  falsely appearing to be right",
+			"translation": "ظاهرا صحیح، بطور سطحی درست",
+			"synonym": "artificial, forged, fabricated, spurious"
+		},
+		{
+			"id": 26,
+			"word": "aimless",
+			"definition": "adj.  not having a goal or purpose",
+			"translation": "بی هدف، بی منظور، ب مقصود",
+			"synonym": "discursive"
+		},
+		{
+			"id": 27,
+			"word": "ingenuous",
+			"definition": "adj.  having or showing the innocence trust and honesty characteristic of young people",
+			"translation": "اصیل، صاف و ساده، رک گو",
+			"synonym": "simple, candid, guileless"
+		},
+		{
+			"id": 28,
+			"word": "intrinsic",
+			"definition": "adj.  belonging to the essential nature of a thing",
+			"translation": "بیواسطه ، ذاتی ، اصلی",
+			"synonym": "inherent, essential, fundamental"
+		},
+		{
+			"id": 29,
+			"word": "inevitable",
+			"definition": "adj.  sure to happen",
+			"translation": "بدیهی، نا چار، ناگزیر",
+			"synonym": "unavoidable, preordained, ineluctable, certain, obligatory"
+		},
+		{
+			"id": 30,
+			"word": "intransigent",
+			"definition": "adj.  completely unwilling to change",
+			"translation": "سختگیر، کله شق",
+			"synonym": "resolute, obduracy"
+		},
+		{
+			"id": 31,
+			"word": "detached",
+			"definition": "adj.  not influenced by emotions or personal interest",
+			"translation": "جدا، منفصل/ ب اعتنا، ب علاقه",
+			"synonym": "isolated, separated, unaffectionate, uncaring"
+		},
+		{
+			"id": 32,
+			"word": "inveterate",
+			"definition": "adj.  firmly and long established deeprooted",
+			"translation": "سابقه دار، خوگرفته، ریشه دار، ژرف، سر سخت",
+			"synonym": "long-standing, chronic, confirmed, entrenched, habitual, incorrigible"
+		},
+		{
+			"id": 33,
+			"word": "backhanded",
+			"definition": "adj.  oblique or indirect",
+			"translation": "کنایه آمری، (حرف) دوپهلو",
+			"synonym": "غیر مستقیم، کج"
+		},
+		{
+			"id": 34,
+			"word": "affable",
+			"definition": "adj.  easy and pleasant to speak to",
+			"translation": "پرمهر، پرمحبت، خونگرم",
+			"synonym": "easygoing, cordial, genteel, congenial"
+		},
+		{
+			"id": 35,
+			"word": "whimsy",
+			"definition": "n.  an unusual unexpected or fanciful idea",
+			"translation": "دمدمی، بوالهوسی، وسواس",
+			"synonym": "arbitrariness, capriciousness"
+		},
+		{
+			"id": 36,
+			"word": "tenacious",
+			"definition": "adj.  very determined to do something",
+			"translation": "سر سخت، استوار، مستحکم",
+			"synonym": "resolve, endurance, dogged, dour, persistent, pertinacious, unyielding"
+		},
+		{
+			"id": 37,
+			"word": "sardonic",
+			"definition": "adj.  scornfully or cynically mocking",
+			"translation": "طعنه آمیز، کنایه آمیز،",
+			"synonym": "sarcastic"
+		},
+		{
+			"id": 38,
+			"word": "skullduggery",
+			"definition": "n.  secret or dishonest behavior or activity",
+			"translation": "دغلکاری، نادرس ین، توطئه، تقلب",
+			"synonym": "duplicity"
+		},
+		{
+			"id": 39,
+			"word": "legitimate",
+			"definition": "adj.  being in compliance with the law",
+			"translation": "درست، قانو زب، م رشوع، برحق، حلال زاده، م رشوع کردن",
+			"synonym": "constituted, established"
+		},
+		{
+			"id": 40,
+			"word": "plagiarize",
+			"definition": "v.  to reproduce or otherwise illegitimately use as ones own",
+			"translation": "انتحال کردن، سرقت ادب کردن، م یی دزدی کردن",
+			"synonym": "-"
+		}
+	]
+}
